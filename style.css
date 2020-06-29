@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('img/password.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rosybrown;
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+
+#slider{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
+
