@@ -1,29 +1,30 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('img/password.jpg');
+    background-color: #fcdb03;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
   }
 .content{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: rosybrown;
+    margin-left: 25%;
+    margin-top: 15%;
+    /* margin-bottom: ; */
+    background-color: #ebe8d8;
     padding: 20px;
-    width: 100%;
+    width: 50%;
 }
 
 #display{
-    width: 100%;
+    width: 50%;
 }
 
 #slider{
-    width: 100%;
+    width: 50%;
 }
 
 #length{
     display: inline-block;
-    width: 100px;
+    width: 50px;
 }
 
